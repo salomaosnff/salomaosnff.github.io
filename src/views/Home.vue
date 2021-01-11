@@ -77,6 +77,18 @@
     <section id="portifolio">
       <h2 class="title">Conheça alguns projetos relevantes</h2>
       <section>
+        <h3 class="comment-2 portifolio-title">Pubby.club</h3>
+        <p class="comment">
+          Pubby.club é uma aplicação que permite usuários reproduzir músicas e
+          vídeos em grupo. O sistema conta com uma fila onde os usuários entram
+          e é reproduzida uma música de cada usuário. As mídias utilizadas são
+          de plataformas de terceiros como Youtube e SoundCloud. Neste projeto
+          utilizei Vue.js + Nuxt.js no front-end, NodeJS, PostgreSQL e Redis no
+          back-end.
+          <a class="link" href="https://pubby.club">Acesse agora</a>
+        </p>
+      </section>
+      <section>
         <h3 class="comment-2 portifolio-title">SOAE Comunicação</h3>
         <p class="comment">
           SOAE é um software de gestão escolar desenvolvido pela
