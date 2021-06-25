@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sallon.dev
+Token: 58a104135a13d9cc96b2620d7fad74b50cd16f2f51c8228d715aa3f9478ee260
